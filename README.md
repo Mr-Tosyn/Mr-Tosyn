@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm a BackEnd developer with knowledge in FastAPI, SQL, Python, and REST APIs. Welcome to my profile!
-![image](https://github.com/Mr-Tosyn/Mr-Tosyn/assets/51682725/d35f23da-91fc-4efd-a95c-0df49ab107c9)
+
+
+- ![image](https://github.com/Mr-Tosyn/Mr-Tosyn/assets/51682725/d35f23da-91fc-4efd-a95c-0df49ab107c9)
 
 ## About me
 - 🌱 I’m currently learning BackEnd DEvelopment at Altschool Africa
