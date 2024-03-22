@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm a BackEnd developer with knowledge in FastAPI, SQL, Python, and REST APIs. Welcome to my profile!
+My name is Tosin. I'm a back-end developer combine my knowledge of software and Critical thinking to build products that can solve problems. Welcome to my profile!
 
 
-- ![image](https://github.com/Mr-Tosyn/Mr-Tosyn/assets/51682725/d35f23da-91fc-4efd-a95c-0df49ab107c9) ![image](https://github.com/Mr-Tosyn/Mr-Tosyn/assets/51682725/51cd3a95-05af-43f7-b950-e79eaed6256b) ![image](https://github.com/Mr-Tosyn/Mr-Tosyn/assets/51682725/0466cd6b-ebb0-4da3-86fc-8223632a99de)
+ ![image](https://github.com/Mr-Tosyn/Mr-Tosyn/assets/51682725/d35f23da-91fc-4efd-a95c-0df49ab107c9) 
 
 
 
