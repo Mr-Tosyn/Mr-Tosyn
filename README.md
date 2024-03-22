@@ -10,8 +10,7 @@ I'm a BackEnd developer with knowledge in FastAPI, SQL, Python, and REST APIs. W
 - ⚡ Fun fact: I am a student at AltSchool Africa School of Software Engineering Class of 2023.
 
 ## Tech Stack
-💻 Languages: JavaScript | React | Node.js | Express
-🎨 Styling: Sass | Tailwind CSS
-📦 Databases: MongoDB | Mongoose
-🌐 Frontend: HTML | CSS | Tailwind CSS | RESTful APIs
-🛠️ Tools: Git | GitHub
+- 💻 Languages: Python | FastAPI | SQL
+- 📦 Databases: SQLite | Postgress
+- 🌐 Frontend: HTML | CSS | Jinja2 
+- 🛠️ Tools: Git | GitHub | PgAdmin4
