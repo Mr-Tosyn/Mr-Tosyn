@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Tosin. I'm a back-end developer combine my knowledge of software and Critical thinking to build products that can solve problems. Welcome to my profile!
+My name is Tosin. I'm a back-end developer, I combine my knowledge of software and Critical thinking to build products that can solve problems. Welcome to my profile!
 
 
  ![image](https://github.com/Mr-Tosyn/Mr-Tosyn/assets/51682725/d35f23da-91fc-4efd-a95c-0df49ab107c9) 
